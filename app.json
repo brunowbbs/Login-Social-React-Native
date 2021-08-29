@@ -1,0 +1,12 @@
+{
+  "name": "login-social",
+  "displayName": "login-social",
+  "expo": {
+    "name": "login-social",
+    "slug": "login-social",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
